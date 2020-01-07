@@ -50,7 +50,7 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "google-analytics": "<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101195489);</script>\r\n<script async src=\"//static.getclicky.com/js\"></script>\r\n<noscript><p><img alt=\"Clicky\" width=\"1\" height=\"1\" src=\"//in.getclicky.com/101195489ns.gif\" /></p></noscript>",
+    "google-analytics": "<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101229871);</script>\n<script async src=\"//static.getclicky.com/js\"></script>\n",
     "": "on",
     "sitemapSwitcher": false
   },
