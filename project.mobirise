@@ -39,8 +39,8 @@
     "versionPublish": "4.11.4",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": true,
-    "siteUrl": "",
+    "robotsSwitcher": false,
+    "siteUrl": "http://caronbowman.streetartrevolution.org",
     "sitemapSwitcherAuto": true,
     "favicon": "",
     "noImageResize": "",
@@ -50,9 +50,9 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "google-analytics": "<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101229871);</script>\n<script async src=\"//static.getclicky.com/js\"></script>\n",
+    "google-analytics": "<html>\n<a title=\"Real Time Web Analytics\" href=\"http://clicky.com/101229871\"><img src=\"//static.getclicky.com/media/links/badge.gif\" border=\"0\" /></a>\n<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101229871);</script>\n<script async src=\"//static.getclicky.com/js\"></script>\n</html>\n",
     "": "on",
-    "sitemapSwitcher": false
+    "sitemapSwitcher": true
   },
   "pages": {
     "index.html": {
