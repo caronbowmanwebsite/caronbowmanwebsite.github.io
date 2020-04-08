@@ -1580,6 +1580,15 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-rVBWetgpGf {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rVBWetgpGf .mbr-text,
+.cid-rVBWetgpGf blockquote {
+  color: #767676;
+}
 .cid-rjzsrVpBLa .modal-body .close {
   background: #1b1b1b;
 }
