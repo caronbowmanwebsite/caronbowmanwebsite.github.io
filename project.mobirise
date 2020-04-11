@@ -53,7 +53,7 @@
     "robotsSwitcher": false,
     "siteUrl": "http://caronbowman.streetartrevolution.org",
     "sitemapSwitcherAuto": true,
-    "favicon": "",
+    "favicon": false,
     "noImageResize": "",
     "gdpr": {
       "colorText": "#a7a7a7",
@@ -61,17 +61,18 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "google-analytics": "<html>\n<a title=\"Real Time Web Analytics\" href=\"http://clicky.com/101229871\"><img src=\"//static.getclicky.com/media/links/badge.gif\" border=\"0\" /></a>\n<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101229871);</script>\n<script async src=\"//static.getclicky.com/js\"></script>\n</html>\n",
+    "google-analytics": "\n<a title=\"Real Time Web Analytics\" href=\"http://clicky.com/101229871\"><img src=\"//static.getclicky.com/media/links/badge.gif\" border=\"0\" /></a>\n<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101229871);</script>\n<script async src=\"//static.getclicky.com/js\">",
     "": "on",
     "sitemapSwitcher": true,
-    "imageResize": true
+    "imageResize": true,
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Artist Caron Bowman",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
