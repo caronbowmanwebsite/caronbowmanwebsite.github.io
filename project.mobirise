@@ -52,7 +52,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": false,
     "siteUrl": "http://caronbowman.streetartrevolution.org",
-    "sitemapSwitcherAuto": true,
+    "sitemapSwitcherAuto": "on",
     "favicon": false,
     "noImageResize": "",
     "gdpr": {
