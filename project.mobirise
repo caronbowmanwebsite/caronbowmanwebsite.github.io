@@ -61,7 +61,7 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-163411235-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-163411235-1');\n</script>\n\n<a title=\"Real Time Web Analytics\" href=\"http://clicky.com/101229871\"><img src=\"//static.getclicky.com/media/links/badge.gif\" border=\"0\" /></a>\n<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101229871);</script>\n<script async src=\"//static.getclicky.com/js\"></script>\n<noscript><p><img alt=\"Clicky\" width=\"1\" height=\"1\" src=\"//in.getclicky.com/101229871ns.gif\" /></p></noscript>\n\n\n\n\n",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-163411235-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-163411235-1');\n</script>\n\n<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101246965);</script>\n<script async src=\"//static.getclicky.com/js\"></script>\n\n\n\n\n\n",
     "": "on",
     "sitemapSwitcher": true,
     "imageResize": true,
